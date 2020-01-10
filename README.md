@@ -16,8 +16,8 @@ const { pipeP, env } = require('sanctuary-pipeP');
 
 // Setup Sanctuary environment to include sanctuary-pipeP Promise type.
 const S = Sanctuary.create({
-	checkTypes: true,
-	env: Sanctuary.env.concat(env)
+  checkTypes: true,
+  env: Sanctuary.env.concat(env)
 });
 
 
