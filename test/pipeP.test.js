@@ -2,8 +2,8 @@
 require('chai/register-expect');
 
 
-
 // Package related imports.
+const Sanctuary = require('sanctuary');
 const { pipeP, env } = require('../index');
 
 
