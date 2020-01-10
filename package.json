@@ -1,5 +1,5 @@
 {
-  "name": "sanctuary-pipeP",
+  "name": "sanctuary-pipep",
   "version": "1.0.0",
   "description": "adds async / await functionality to sanctuary pipe",
   "main": "index.js",
