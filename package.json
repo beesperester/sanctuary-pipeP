@@ -1,6 +1,6 @@
 {
   "name": "sanctuary-pipep",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "adds async / await functionality to sanctuary pipe",
   "main": "index.js",
   "repository": "https://github.com/beesperester/sanctuary-pipeP",
