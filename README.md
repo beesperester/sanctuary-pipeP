@@ -1,7 +1,7 @@
 # sanctuary-pipeP
 Adds async / await functionality to sanctuary pipe.
 
-[![Actions Status](https://github.com/beesperester/sanctuary-pipeP/workflows/Node.js Package/badge.svg?branch=master)](https://github.com/beesperester/sanctuary-pipeP/actions)
+[![Actions Status](https://github.com/beesperester/sanctuary-pipeP/workflows/Node.js%20Package/badge.svg?branch=master)](https://github.com/beesperester/sanctuary-pipeP/actions)
 [![Actions Status](https://github.com/beesperester/sanctuary-pipeP/workflows/Node%20CI/badge.svg?branch=master)](https://github.com/beesperester/sanctuary-pipeP/actions)
 [![Run on Repl.it](https://repl.it/badge/github/beesperester/sanctuary-pipeP)](https://repl.it/github/beesperester/sanctuary-pipeP)
 
